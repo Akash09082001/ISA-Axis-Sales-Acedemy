@@ -6027,6 +6027,10 @@ html{
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .lg\:justify-start {
+    justify-content: flex-start;
+  }
+
   .lg\:gap-10 {
     gap: 2.5rem;
   }
