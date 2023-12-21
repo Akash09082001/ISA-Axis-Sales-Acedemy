@@ -6011,6 +6011,10 @@ html{
     display: grid;
   }
 
+  .lg\:hidden {
+    display: none;
+  }
+
   .lg\:w-4\/12 {
     width: 33.333333%;
   }
